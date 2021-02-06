@@ -1,0 +1,41 @@
+
+body.azul{
+    background-color: skyblue;
+}
+
+p.titulo{
+    text-align: center;
+    font-size: 200%;
+    color: blue;
+}
+span.s{
+    font-weight: bold;
+    font-size: 300%;
+    color: black;
+    }
+
+
+span.vida:hover{
+        background-color: yellow;
+        color: red;
+    }
+p.barra{
+        color: blue;
+        text-align: center;
+        font-size: 150%;
+    }
+span.rojo{
+    color: red;
+    
+}
+p.texto{
+    font-size: 135%;
+}
+
+span.negrita{
+    font-weight: bold;
+}
+
+img.jobs{
+    float: right;
+}
