@@ -8,6 +8,10 @@ p.titulo{
     font-size: 200%;
     color: blue;
 }
+p.titulo::first-letter{
+    font-size: 150%;
+    color: black;
+}
 span.s{
     font-weight: bold;
     font-size: 300%;
@@ -38,4 +42,9 @@ span.negrita{
 
 img.jobs{
     float: right;
+}
+
+p.enlace{
+    color: blue;
+    background-color: white;
 }
