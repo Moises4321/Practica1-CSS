@@ -42,9 +42,21 @@ span.negrita{
 
 img.jobs{
     float: right;
+  position: relative;
+  bottom: 60px;
+    
 }
 
-p.enlace{
+p.italia{
+    font-style: italic;
+}
+
+a.enlace1:visited{
+    color: blue;
+    background-color: white;
+    display: inline;  
+}
+a.enlace{
     color: blue;
     background-color: white;
 }
